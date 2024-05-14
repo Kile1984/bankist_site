@@ -2,3 +2,5 @@
 - Not responsive
 - CSS grid
 - JS 
+- Slider
+- Tabs
